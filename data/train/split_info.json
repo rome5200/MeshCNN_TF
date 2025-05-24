@@ -1,9 +1,0 @@
-{
-  "total_files": 75,
-  "train_files": 52,
-  "val_files": 15,
-  "test_files": 8,
-  "train_ratio": 0.7,
-  "val_ratio": 0.2,
-  "test_ratio": 0.1
-}
